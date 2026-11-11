@@ -1,0 +1,6 @@
+mitsuba==3.9.0
+drjit==1.4.0
+numpy
+matplotlib
+pillow
+nvidia-ml-py; sys_platform == "linux"
